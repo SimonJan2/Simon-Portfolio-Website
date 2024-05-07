@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-![Example](.\assets\images\SimonWebPage.png)
+![Example](assets\images\SimonWebPage.png)
 
 <!-- <h2>📬 Contact</h2>
 
