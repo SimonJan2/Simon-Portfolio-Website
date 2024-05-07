@@ -2,6 +2,8 @@
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
+![alt text](assets/images/SimonWebPage.png)
+
 
 <!-- <h2>📬 Contact</h2>
 
