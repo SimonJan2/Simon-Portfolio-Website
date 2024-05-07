@@ -5,7 +5,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 ![alt text](assets/images/SimonWebPage.png)
 
 
-<!-- <h2>📬 Contact</h2>
+<h2>📬 Contact</h2>
 
 
 If you want to contact me, you can reach me through below handles.
@@ -15,4 +15,4 @@ If you want to contact me, you can reach me through below handles.
 © 2022 Jigar Sable
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) -->
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
